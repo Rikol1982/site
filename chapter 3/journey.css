@@ -1,0 +1,28 @@
+body{
+     font-family:Arial, sans-serif;
+     font-size: large;
+     background-color: silver; 
+     }
+p{
+   color:maroon;
+   font-size: 150%;
+   
+}
+h1, h2 {
+font-weight:normal;
+color:orange;
+border-bottom: thin dotted #888888;
+
+}
+h1{
+   font-size:170%;
+   }
+h2{
+   font-size: 1.2em;
+   }
+blockquote {
+     font-family:Comic Sans, cursive;
+     font-weight:bold;
+      font-style:italic;
+
+}

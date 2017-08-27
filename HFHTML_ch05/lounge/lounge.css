@@ -1,0 +1,29 @@
+
+ body{font-family:sans-serif;}   
+ h1, h2 {
+        
+        color:green;
+       } 
+    h1{
+       border-bottom: 1px solid black;  
+         }
+    h2{
+       text-decoration:underline;
+       }
+p.greentea {
+            color:green;
+                }    
+p.raspberry{
+           color:blue;   
+           }
+p.blueberry{
+            color:red; 
+            }
+p {
+       
+       color:maroon;} <!-- установили цвет шрифта-->
+    
+    
+    
+
+   
